@@ -5,6 +5,10 @@
     font-family: "Gilroy";
     scroll-behavior: smooth;
 }
+@font-face {
+    font-family: "Gilroy";
+    src: url(Gilroy-Bold.ttf);
+}
 :root{
     --black:#333;
     --black2:#333;
